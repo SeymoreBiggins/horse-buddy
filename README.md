@@ -2,6 +2,12 @@
 
 This is a basic website that describes Horiseon's services.
 
+* [Horiseon Website](https://seymorebiggins.github.io/horse-buddy/) - link to website
+
+
+![Current Site](assets\images\demo-image.png "Demo")
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -40,10 +46,9 @@ NA
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MADEUP License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc#horse-buddy
+* Thanks to professors
+* Large thanks to AskBCS
